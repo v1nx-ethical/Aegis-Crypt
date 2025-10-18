@@ -19,7 +19,7 @@ sudo apt install python3 python3-pip python3-tk
 # Ensure "Add Python to PATH" is checked during installation
 Step 1: Clone the Repository
 bash
-git clone https://github.com/your-username/aegis-crypt-ultimate.git
+git clone https://github.com/v1nx-ethical/aegis-crypt-ultimate.git
 cd aegis-crypt-ultimate
 Step 2: Create Virtual Environment (Recommended)
 bash
