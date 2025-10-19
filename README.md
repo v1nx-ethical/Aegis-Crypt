@@ -65,14 +65,14 @@ Aegis Crypt Ultimate - Weaponized Edition is an advanced cryptographic platform 
 
 ### Quick Installation
 
-# Clone the repository
+#### Clone the repository
 - git clone https://github.com/v1nx-ethical/Aegis-Crypt.git
 - cd Aegis-Crypt
 
-# Install dependencies
+#### Install dependencies
 - pip install cryptography psutil
 
-# Run the application
+#### Run the application
 - python main.py
 
 ## System-Specific Setup
