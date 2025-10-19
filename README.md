@@ -1,4 +1,4 @@
-Aegis Crypt Ultimate - Weaponized Edition
+## Aegis Crypt Ultimate - Weaponized Edition
 Security Notice & Legal Disclaimer
 THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL, RESEARCH, AND AUTHORIZED SECURITY TESTING PURPOSES ONLY.
 
