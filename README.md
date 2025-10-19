@@ -37,3 +37,38 @@ Aegis Crypt Ultimate - Weaponized Edition is an advanced cryptographic platform 
 - Operation logging with rotation
 - Self-destruct mechanism
 
+## Network Operations
+
+- TCP port scanning capabilities
+- Network reconnaissance and intelligence
+- DNS covert channel simulation
+- System and network analysis
+
+## Management Systems
+
+- Encrypted key storage
+- Real-time performance monitoring
+- Security vulnerability assessment
+- System metrics collection
+
+# Installation
+
+## Prerequisites
+
+- Python 3.8 or higher
+- Windows, Linux, or macOS
+- 512MB RAM minimum
+- 100MB disk space
+
+## Quick Installation
+
+bash
+# Clone the repository
+git clone https://github.com/v1nx-ethical/Aegis-Crypt.git
+cd Aegis-Crypt
+
+# Install dependencies
+pip install cryptography psutil
+
+# Run the application
+python main.py
