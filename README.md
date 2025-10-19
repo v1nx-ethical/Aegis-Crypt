@@ -81,3 +81,31 @@ Aegis Crypt Ultimate - Weaponized Edition is an advanced cryptographic platform 
 - Service Installation: Background service deployment
 
 - Registry Modification: Windows registry persistence (where applicable)
+
+# Management Systems
+- Key Management: Secure key storage and lifecycle management
+
+- Performance Monitoring: Real-time operation metrics
+
+- Security Auditing: Vulnerability assessment and reporting
+
+- System Metrics: CPU, memory, and network monitoring
+
+# System Architecture
+
+## Component Diagram
+
++----------------+     +-------------------+     +-------------------+
+|    GUI Layer   | --> |  Crypto Engine    | --> |  Stealth Engine   |
+|   (Tkinter)    |     |                   |     |                   |
++----------------+     +-------------------+     +-------------------+
+         |                       |                       |
+         v                       v                       v
++----------------+     +-------------------+     +-------------------+
+| Key Management | --> | Network Operations| --> | Persistence Engine|
++----------------+     +-------------------+     +-------------------+
+         |                       |                       |
+         v                       v                       v
++----------------+     +-------------------+     +-------------------+
+| Audit System   | --> | Performance Monitor| --> | Self-Destruct    |
++----------------+     +-------------------+     +-------------------+
