@@ -16,7 +16,7 @@ The developers and contributors are not responsible for any misuse of this softw
 
 ## Overview
 
-Aegis Crypt Ultimate - Weaponized Edition is an advanced cryptographic platform with integrated security auditing, network reconnaissance, and defensive/offensive cybersecurity capabilities. Built with Python and Tkinter, it provides a comprehensive suite of tools for security professionals, researchers, and authorized penetration testers.
+V1nxencoder - Weaponized Edition is an advanced cryptographic platform with integrated security auditing, network reconnaissance, and defensive/offensive cybersecurity capabilities. Built with Python and Tkinter, it provides a comprehensive suite of tools for security professionals, researchers, and authorized penetration testers.
 
 ### Key Characteristics
 
@@ -64,36 +64,36 @@ Aegis Crypt Ultimate - Weaponized Edition is an advanced cryptographic platform 
 ### Quick Installation
 
 #### Clone the repository
-- git clone https://github.com/v1nx-ethical/Aegis-Crypt.git
-- cd Aegis-Crypt
+- git clone https://github.com/v1nx-ethical/v1nxencoder.git
+
 
 #### Install dependencies
 - pip install cryptography psutil
 
 #### Run the application
-- python main.py
+- python v1nxencoder.py
 
 ## System-Specific Setup
 ###  Windows
 - pip install cryptography psutil
--python main.py
+-python v1nxencoder.py
 
 ### Linux
 - sudo apt install python3-tk
 - pip3 install cryptography psutil
-- python3 main.py
+- python3 v1nxencoder.py
 
 ### macOS
 - brew install python-tk
 - pip3 install cryptography psutil
-- python3 main.py
+- python3 v1nxencoder.py
 - 
 # Usage
 ## Basic Operations
 ####  Start the application
-- python main.py
+- python v1nxencoder.py
 
 ### Command Line Options
-- python main.py --stealth          # Stealth mode
-- python main.py --audit            # Security audit only
-- python main.py --encrypt-file     # File encryption
+- python v1nxencoder.py --stealth          # Stealth mode
+- python v1nxencoder.py --audit            # Security audit only
+- python v1nxencoder.py --encrypt-file     # File encryption
