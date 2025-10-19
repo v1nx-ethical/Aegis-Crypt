@@ -38,3 +38,17 @@ Aegis Crypt Ultimate - Weaponized Edition is an advanced cryptographic platform 
 - Weaponized Capabilities: Authorized penetration testing tools
 
 - Self-Contained: Minimal external dependencies
+
+## Features
+# Core Cryptographic Engine
+- AES-256-GCM Encryption: Authenticated encryption with associated data
+
+- AES-256-CBC Encryption: Cipher block chaining mode with PKCS7 padding
+
+- RSA-2048 Encryption: Asymmetric encryption with OAEP padding
+
+- Key Generation: Secure random key generation for all algorithms
+
+- File Encryption: Complete file encryption with ransom-style demonstration
+
+- Performance Optimization: High-speed encryption/decryption operations
