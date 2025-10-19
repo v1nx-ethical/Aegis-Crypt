@@ -1,4 +1,4 @@
-## Aegis Crypt Ultimate - Weaponized Edition
+# Aegis Crypt Ultimate - Weaponized Edition
 Security Notice & Legal Disclaimer
 THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL, RESEARCH, AND AUTHORIZED SECURITY TESTING PURPOSES ONLY.
 
@@ -23,10 +23,10 @@ The developers and contributors are not responsible for any misuse of this softw
 - [Support](#support)
 - [Changelog](#changelog)
 
-## Overview
+# Overview
 Aegis Crypt Ultimate - Weaponized Edition is an advanced cryptographic platform with integrated security auditing, network reconnaissance, and defensive/offensive cybersecurity capabilities. Built with Python and Tkinter, it provides a comprehensive suite of tools for security professionals, researchers, and authorized penetration testers.
 
-## Key Characteristics
+# Key Characteristics
 - Multi-Algorithm Cryptography: AES-256-GCM, AES-256-CBC, RSA-2048
 
 - Advanced Stealth Operations: Anti-forensics and obfuscation capabilities
@@ -39,8 +39,8 @@ Aegis Crypt Ultimate - Weaponized Edition is an advanced cryptographic platform 
 
 - Self-Contained: Minimal external dependencies
 
-## Features
-# Core Cryptographic Engine
+# Features
+## Core Cryptographic Engine
 - AES-256-GCM Encryption: Authenticated encryption with associated data
 
 - AES-256-CBC Encryption: Cipher block chaining mode with PKCS7 padding
