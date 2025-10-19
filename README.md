@@ -12,9 +12,7 @@ The developers and contributors are not responsible for any misuse of this softw
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
-- [Legal & Ethical Considerations](#legal-ethical-considerations)
-- [License](#license)
+
 
 ## Overview
 
