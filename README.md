@@ -64,39 +64,38 @@ Aegis Crypt Ultimate - Weaponized Edition is an advanced cryptographic platform 
 - 100MB disk space
 
 ### Quick Installation
-'''bash
+
 # Clone the repository
-git clone https://github.com/v1nx-ethical/Aegis-Crypt.git
-cd Aegis-Crypt
+- git clone https://github.com/v1nx-ethical/Aegis-Crypt.git
+- cd Aegis-Crypt
 
 # Install dependencies
-pip install cryptography psutil
+- pip install cryptography psutil
 
 # Run the application
-python main.py
+- python main.py
 
-System-Specific Setup
-Windows:
+## System-Specific Setup
+###  Windows
+- pip install cryptography psutil
+-python main.py
 
-pip install cryptography psutil
-python main.py
-Linux:
+### Linux
+- sudo apt install python3-tk
+- pip3 install cryptography psutil
+- python3 main.py
 
-sudo apt install python3-tk
-pip3 install cryptography psutil
-python3 main.py
-macOS:
+### macOS
+- brew install python-tk
+- pip3 install cryptography psutil
+- python3 main.py
+- 
+# Usage
+## Basic Operations
+####  Start the application
+- python main.py
 
-brew install python-tk
-pip3 install cryptography psutil
-python3 main.py
-Usage
-Basic Operations
-Start the application:
-
-python main.py
-Command Line Options
-bash
-python main.py --stealth          # Stealth mode
-python main.py --audit            # Security audit only
-python main.py --encrypt-file     # File encryption
+### Command Line Options
+- python main.py --stealth          # Stealth mode
+- python main.py --audit            # Security audit only
+- python main.py --encrypt-file     # File encryption
