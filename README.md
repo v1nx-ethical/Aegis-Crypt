@@ -64,7 +64,7 @@ Aegis Crypt Ultimate - Weaponized Edition is an advanced cryptographic platform 
 - 100MB disk space
 
 ### Quick Installation
-
+'''bash
 # Clone the repository
 git clone https://github.com/v1nx-ethical/Aegis-Crypt.git
 cd Aegis-Crypt
