@@ -65,7 +65,6 @@ Aegis Crypt Ultimate - Weaponized Edition is an advanced cryptographic platform 
 
 ### Quick Installation
 
-```bash
 # Clone the repository
 git clone https://github.com/v1nx-ethical/Aegis-Crypt.git
 cd Aegis-Crypt
@@ -79,18 +78,15 @@ python main.py
 System-Specific Setup
 Windows:
 
-'''cmd
 pip install cryptography psutil
 python main.py
 Linux:
 
-'''bash
 sudo apt install python3-tk
 pip3 install cryptography psutil
 python3 main.py
 macOS:
 
-'''bash
 brew install python-tk
 pip3 install cryptography psutil
 python3 main.py
@@ -98,7 +94,6 @@ Usage
 Basic Operations
 Start the application:
 
-'''bash
 python main.py
 Command Line Options
 bash
