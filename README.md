@@ -1,4 +1,4 @@
-# Aegis Crypt Ultimate - Weaponized Edition
+# V1nxencoder/Aegis-Crypt - Weaponized Edition
 
 ## Security Notice & Legal Disclaimer
 
