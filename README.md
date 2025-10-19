@@ -52,3 +52,32 @@ Aegis Crypt Ultimate - Weaponized Edition is an advanced cryptographic platform 
 - File Encryption: Complete file encryption with ransom-style demonstration
 
 - Performance Optimization: High-speed encryption/decryption operations
+
+# Advanced Security Systems
+- Stealth Engine: Multi-layer obfuscation and anti-forensics
+
+- Secure File Wiping: Multi-pass secure deletion (DoD 5220.22-M compliant)
+
+- Data Obfuscation: XOR rotation with Base85 encoding
+
+- Operation Logging: Comprehensive audit trails with rotation
+
+- Self-Destruct Mechanism: Automated cleanup and evidence removal
+
+# Network Operations
+- Port Scanning: TCP port scanning capabilities
+
+- Network Reconnaissance: Interface and host information gathering
+
+- DNS Covert Channels: Data exfiltration simulation
+
+- Network Intelligence: System and network configuration analysis
+
+# Persistence Mechanisms
+- Scheduled Tasks: Windows task scheduler integration
+
+- Startup Persistence: Cross-platform autostart configuration
+
+- Service Installation: Background service deployment
+
+- Registry Modification: Windows registry persistence (where applicable)
