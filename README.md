@@ -76,3 +76,32 @@ pip install cryptography psutil
 # Run the application
 python main.py
 
+System-Specific Setup
+Windows:
+
+'''cmd
+pip install cryptography psutil
+python main.py
+Linux:
+
+'''bash
+sudo apt install python3-tk
+pip3 install cryptography psutil
+python3 main.py
+macOS:
+
+'''bash
+brew install python-tk
+pip3 install cryptography psutil
+python3 main.py
+Usage
+Basic Operations
+Start the application:
+
+'''bash
+python main.py
+Command Line Options
+bash
+python main.py --stealth          # Stealth mode
+python main.py --audit            # Security audit only
+python main.py --encrypt-file     # File encryption
