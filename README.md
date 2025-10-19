@@ -72,3 +72,19 @@ pip install cryptography psutil
 
 ### Run the application
 python main.py
+
+## System-Specific Setup
+
+### Windows:
+pip install cryptography psutil
+python main.py
+
+### Linux:
+sudo apt install python3-tk
+pip3 install cryptography psutil
+python3 main.py
+
+### macOS:
+brew install python-tk
+pip3 install cryptography psutil
+python3 main.py
