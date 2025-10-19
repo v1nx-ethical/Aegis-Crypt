@@ -94,7 +94,6 @@ Aegis Crypt Ultimate - Weaponized Edition is an advanced cryptographic platform 
 # System Architecture
 
 ## Component Diagram
----
 +----------------+     +-------------------+     +-------------------+
 |    GUI Layer   | --> |  Crypto Engine    | --> |  Stealth Engine   |
 |   (Tkinter)    |     |                   |     |                   |
@@ -109,4 +108,15 @@ Aegis Crypt Ultimate - Weaponized Edition is an advanced cryptographic platform 
 +----------------+     +-------------------+     +-------------------+
 | Audit System   | --> | Performance Monitor| --> | Self-Destruct    |
 +----------------+     +-------------------+     +-------------------+
----
+
+
+# Data Flow
+1. User Input -> GUI Layer -> Crypto Engine
+
+2. Crypto Processing -> Stealth Engine -> Output
+
+3. Key Management -> Secure Storage -> Retrieval
+
+4. Network Operations -> Reconnaissance -> Reporting
+
+5. Audit System -> Vulnerability Scan -> Reports
